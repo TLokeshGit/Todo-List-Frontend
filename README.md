@@ -18,7 +18,7 @@ This is the frontend part of the Todo App, built with Next.js and Tailwind CSS.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/Todo-List-Frontend.git
+   git clone https://github.com/TLokeshGit/Todo-List-Frontend.git
    cd Todo-List-Frontend
    ```
 
